@@ -17,7 +17,7 @@ the `nl` command?
 ```
 git clone git@github.com:kinggizzardandtheinstallationwizard/nail.git
 cd nail
-cat nail.sh >> ~/.bashrc
+cat nail.bash >> ~/.bashrc
 ```
 
 GLHF
