@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 nail() {
 	# nail --- "nl plus tail"
 	# Equivalent to `wc -l`, excluding empty lines
